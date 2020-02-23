@@ -1,9 +1,9 @@
 class Dog
   fido = Dog.new
-  #fido
+  fido
 
   snoopy = Dog.new
-  #snoopy
+  snoopy
 
   lassie = Dog.new
-  #lassie
+  lassie
